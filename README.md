@@ -15,4 +15,4 @@ For example，
 6. Enter the perl command (perl json_convert_format.pl > 2.txt) to run.
 7. 2.txt is the file you want.
 
-Here I give the initial file (1.txt) and the transformed file (2.txt) for the file transformation of the sheep species for debugging.
+Here I give the initial file (oas00001.json) and the transformed file (oas.kegg.own.gmt) for the file transformation of the sheep species for debugging.
