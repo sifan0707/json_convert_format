@@ -14,3 +14,5 @@ For example，
 5. Copy the perl script and the files to be converted into a folder.
 6. Enter the perl command (perl json_convert_format.pl > 2.txt) to run.
 7. 2.txt is the file you want.
+
+Here I give the initial file (1.txt) and the transformed file (2.txt) for the file transformation of the sheep species for debugging.
